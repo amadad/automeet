@@ -1,0 +1,15 @@
+[project]
+name = "automeet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "instructor>=1.7.0",
+    "ollama>=0.4.2",
+    "openai>=1.56.2",
+    "pydantic-ai>=0.0.9",
+    "python-dotenv>=1.0.1",
+    "rich>=13.9.4",
+    "tavily-python>=0.5.0",
+]
